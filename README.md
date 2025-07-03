@@ -6,7 +6,7 @@ An AI-powered, recruiter-friendly resume analysis web application built using Re
 
 ## 📸 Preview
 
-![App Preview](https://intelligent-cv-analyser.vercel.app/)
+https://intelligent-cv-analyser.vercel.app/
 
 ---
 
