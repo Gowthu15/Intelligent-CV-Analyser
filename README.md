@@ -77,4 +77,4 @@ npm run dev
 
 ## Demo video
 
-[text](<../../../Videos/Captures/Gowtham Project.zip>)
+<video controls src="Vite + React - Google Chrome 2025-07-03 07-55-35.mp4" title="Title"></video>
